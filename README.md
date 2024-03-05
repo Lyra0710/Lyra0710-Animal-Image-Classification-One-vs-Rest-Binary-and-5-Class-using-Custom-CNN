@@ -85,8 +85,14 @@ After trial and error, a custom CNN was developed this task. This model includes
 
 ### Convolutional Layer plots
 Please see: [conv_vis.ipynb](https://github.com/Lyra0710/Lyra0710-Animal-Image-Classification-One-vs-Rest-Binary-and-5-Class-using-Custom-CNN/blob/main/conv_vis.ipynb). A sample image was used per model for the visualization. 
-## Acknowledgements
-The data used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals?resource=download).
+
+## Acknowledgements and References
+- The data used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals?resource=download).
+- Sources:
+  https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/
+  https://medium.com/@agrawalsam1997/multiclass-classification-onevsrest-and-onevsone-classification-strategy-2c293a91571a
+  https://medium.com/geekculture/multiclass-image-classification-dcf9585f2ff9
+  https://www.analyticsvidhya.com/blog/2019/04/build-first-multi-label-image-classification-model-python/
 
 ### Additional comments and learnings:
 - Accuracy can be better and worked upon with more time.
