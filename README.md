@@ -11,8 +11,8 @@
 - seaborn
 
 ### Dataset Folders
-The datasets and their corresponding splits for One-vs-Rest Classification are stores in  `dataset' and `split` folders. 
-The same for 5 class classification are stored in `dataset2` and `split2`. 
+The datasets and their corresponding splits for One-vs-Rest Classification are stores in  `dataset`  and  `split`  folders. 
+The same for 5 class classification are stored in  `dataset2`  and  `split2` . 
 
 ### One-vs-Rest Classification
 [ovr.ipynb](https://github.com/Lyra0710/Lyra0710-Animal-Image-Classification-One-vs-Rest-Binary-and-5-Class-using-Custom-CNN/blob/main/ovr.ipynb)
