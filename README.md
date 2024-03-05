@@ -1,4 +1,4 @@
-﻿# Animal-Image-Classification-One-vs-Rest-Binary-and-5-Class-using-Custom-CNN
+﻿# Animal Image Classification One-vs-Rest and 5 Class using Custom CNN
 #### This repository contains resources and code for performing classification tasks as per the IITGN internship task
 
 #### About task:
