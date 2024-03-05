@@ -1,5 +1,9 @@
 ﻿# Animal-Image-Classification-One-vs-Rest-Binary-and-5-Class-using-Custom-CNN
 #### This repository contains resources and code for performing classification tasks as per the IITGN internship task
+
+#### About task:
+The dataset comprises 90 different animal images. Initially, we'll structure it for one-vs-rest classification, followed by binary classification and then a 5-class classification problem. We'll evaluate each model's performance using classification matrices.
+
 ## Requirements
 - Python 3.10
 - TensorFlow
